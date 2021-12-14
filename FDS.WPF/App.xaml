@@ -1,0 +1,9 @@
+﻿<Application x:Class="FDS.WPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:FDS.WPF"
+             StartupUri="Views/UserInfoView.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
